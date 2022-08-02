@@ -2564,7 +2564,17 @@ width: 50%;
   .event-img {
     width: 80%;
   }
-
+  .btn-event{
+    background-image: url('../img/btn-event.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 80%;
+    height: auto;
+    font-size: 14px;
+    color: #1168D1;
+    line-height: 289%;
+  }
   #race{
     z-index: 20;
     background-image: url('../img/bg-race.png');
@@ -2626,8 +2636,8 @@ width: 50%;
   }
   .kv-music{
     margin-top: -57px;
-    width: 364.83px;
-    height: 364.39px;
+    width: 100%;
+    /* height: 364.39px; */
   }
 
   #music{
@@ -2643,8 +2653,8 @@ width: 50%;
     height: auto;
   }
   .event-title{
-    width: 284.46px;
-    height: 86.56px;
+    width: 100%;
+    /* height: 86.56px; */
   }
   #tour {
     padding-top: 82px;
