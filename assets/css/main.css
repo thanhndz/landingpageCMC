@@ -2179,6 +2179,7 @@ p {
 }
 .home-content{
   /* padding-bottom: 162px */
+  padding-bottom: 162px;
 }
 .btn-khampha{
   background-image: url('../img/bg-btn.png');
@@ -2529,7 +2530,8 @@ width: 50%;
     background-position: center;
   }
   .home-content{
-    padding-top: 120px
+    /* padding-top: 120px */
+    padding-bottom: 38px;
   }
   .home-tuoi-tre{
     width: 80%;
@@ -2788,3 +2790,4 @@ width: 50%;
   .section-title h2 {
     font-size: 32px;
   }
+}
